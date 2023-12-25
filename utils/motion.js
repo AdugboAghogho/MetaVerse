@@ -12,7 +12,7 @@ export const navVariants = {
     opacity: 1,
     y: 0,
     transition: {
-      type: 'spring',
+      type: "spring",
       stiffness: 80,
       delay: 1,
     },
